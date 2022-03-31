@@ -5,3 +5,5 @@ it is suggested to print with the gopro part with those flat horizontally and wa
 the wahoo part is download from thingiverse and big thanks to creator
 i only put here for easy download
 if you use this, feel free to give kudos to original drawer
+
+you may need 4 m.4 flat headed screw
